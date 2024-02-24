@@ -1,0 +1,10 @@
+{
+    
+    "seed": 0,
+    "threads": 16,
+    "num_trials": 20,
+
+    "fair_factor": 0.0001,
+    "adcg_factor": 10,
+    "regulariser": "hin"
+}
