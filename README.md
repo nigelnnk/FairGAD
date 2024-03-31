@@ -33,3 +33,17 @@ If you would like to use our dataset, please contact the same email address abov
 ## Potential Twitter bots
 
 We have included a list of node indexes that correspond to Twitter accounts that have a Botometer "raw_overall" score of greater than 0.9 that may be possible Twitter bot accounts. 
+
+## Citing FairGAD
+
+We would appreciate a citation to the following paper if you have used our work:
+
+    @online{neoFairGraphAnomaly2024,
+      title = {Towards {{Fair Graph Anomaly Detection}}: {{Problem}}, {{New Datasets}}, and {{Evaluation}}},
+      author = {Neo, Neng Kai Nigel and Lee, Yeon-Chang and Jin, Yiqiao and Kim, Sang-Wook and Kumar, Srijan},
+      date = {2024-02-25},
+      eprint = {2402.15988},
+      eprinttype = {arxiv},
+      eprintclass = {cs},
+      url = {http://arxiv.org/abs/2402.15988},
+    }
