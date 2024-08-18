@@ -2,7 +2,7 @@
 
 _**NEW!** Accepted at CIKM 2024._
 
-Our datasets (Reddit, Twitter) are publicly available through [this link](https://www.dropbox.com/scl/fi/5vga0qe9bqdmwroz7uefc/FairGAD-datasets.tar.xz?rlkey=1rmkp34xovis7xtph216xysgl&dl=0) as PyTorch Geometric datasets. 
+Our datasets (Reddit, Twitter) are publicly available through [this link](https://www.dropbox.com/scl/fi/5vga0qe9bqdmwroz7uefc/FairGAD-datasets.tar.xz?rlkey=1rmkp34xovis7xtph216xysgl&dl=0) ([alt link](https://www.dropbox.com/scl/fi/cul06biq4x1h4quwwrt8g/FairGAD-datasets.tar.xz?rlkey=tbcjp26s8bzg2bi0rkg94n10e&st=kyw80sgx&dl=0)) as PyTorch Geometric datasets. 
 
 ## Environment
   - python=3.8
