@@ -38,16 +38,21 @@ We have included a list of node indexes that correspond to Twitter accounts that
 
 ## Citing FairGAD
 
-Accepted at CIKM 2024. Citation to be updated.  
+Accepted at CIKM 2024. We would appreciate a citation to the following paper if you have used our work:
 
-We would appreciate a citation to the following paper if you have used our work:
-
-    @online{neoFairGraphAnomaly2024,
-      title = {Towards {{Fair Graph Anomaly Detection}}: {{Problem}}, {{New Datasets}}, and {{Evaluation}}},
+    @inproceedings{neoFairGraphAnomaly2024a,
+      title = {Towards {{Fair Graph Anomaly Detection}}: {{Problem}}, {{Benchmark Datasets}}, and {{Evaluation}}},
+      shorttitle = {Towards {{Fair Graph Anomaly Detection}}},
+      booktitle = {Proceedings of the 33rd {{ACM International Conference}} on {{Information}} and {{Knowledge Management}}},
       author = {Neo, Neng Kai Nigel and Lee, Yeon-Chang and Jin, Yiqiao and Kim, Sang-Wook and Kumar, Srijan},
-      date = {2024-02-25},
-      eprint = {2402.15988},
-      eprinttype = {arxiv},
-      eprintclass = {cs},
-      url = {http://arxiv.org/abs/2402.15988},
+      date = {2024-10-21},
+      pages = {1752--1762},
+      publisher = {ACM},
+      location = {Boise ID USA},
+      doi = {10.1145/3627673.3679754},
+      url = {https://dl.acm.org/doi/10.1145/3627673.3679754},
+      urldate = {2024-11-24},
+      eventtitle = {{{CIKM}} '24: {{The}} 33rd {{ACM International Conference}} on {{Information}} and {{Knowledge Management}}},
+      isbn = {9798400704369},
+      langid = {english}
     }
